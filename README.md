@@ -13,4 +13,4 @@ Thanks for checking out this front-end coding challenge.
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
 ## My implementation 🚀 : 
-https://sergiimost.github.io/huddle-landing-page-single/
+https://sergiimost.github.io/insure-landing-page/
